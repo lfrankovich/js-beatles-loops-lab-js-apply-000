@@ -30,7 +30,7 @@ function iLoveTheBeatles(num) {
   var arr = [];
 //adds "I love the Beatles!" to the empty array
   do {
-   arr.push[num] = "I love the Beatles!"; num++; 
+   arr.push("I love the Beatles!"); num++; 
     } while (num < 15);
     
 //return the array with the strings "I love the Beatles!"
